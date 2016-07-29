@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<routes>
+
+    <route>
+        <url>accueil</url>
+        <controller>Accueil</controller>
+    </route>
+
+    <route>
+        <url>utilisateur</url>
+        <controller>User</controller>
+    </route>
+
+</routes>
