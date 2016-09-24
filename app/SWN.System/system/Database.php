@@ -13,7 +13,6 @@ class SPDO extends PDO
 
     public function __construct()
     {
-        // on appelle le constructeur de la classe parente PDO
         parent::__construct('mysql:dbname='.self::DEFAULT_SQL_DTB.';host='.self::DEFAULT_SQL_HOST,self::DEFAULT_SQL_USER ,self::DEFAULT_SQL_PASS);
     }
 

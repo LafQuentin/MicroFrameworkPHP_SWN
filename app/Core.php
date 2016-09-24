@@ -7,11 +7,12 @@ require'SWN.System/system/Restricted.php';
 require'SWN.System/system/Token.php';
 require'SWN.System/Router.php';
 require'SWN.System/error/PageNotFound.php';
-require'SWN.System/error/Notification.php';
+require'SWN.System/system/Notification.php';
 require'SWN.System/system/View.php';
 require'SWN.System/system/Title.php';
 require'SWN.System/system/Breadcrumbs.php';
 require'SWN.System/system/Desc.php';
+require'SWN.System/system/Keywords.php';
 require'SWN.System/system/Database.php';
 require'SWN.System/system/Model.php';
 
