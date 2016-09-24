@@ -60,7 +60,7 @@
         <div class="col-md-3 col-xs-12 cv-more-mini wow bounceIn"></div>
     </div>
 
-    <div class="row hidden-xs hidden-sm">
+    <div class="row hidden-xs hidden-sm wow fadeInLeftBig">
         <div class="col-md-12 text-head-cv">
             <p class="text-center">Je suis actuellement en poste , mais je reste à l'écoute du marché ainsi qu'à de nouveaux projets professionnels</p>
         </div>
@@ -79,9 +79,11 @@
 <!--CV-->
                     <ul class="timeline">
                         <li>
-                            <div class="timeline-badge success"><i class="fa fa-cogs"></i></div>
+                            <div class="timeline-badge success"><i class="minusAdd fa fa-cogs fa-lg wow rotateIn"></i></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-minus"></i></button>
                                     <h4 class="timeline-title">Développeur web</h4>
                                     <h5 class="timeline-title-sci">As&Co Consulting (Bourgoin Jaillieu - 38)</h5>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> avril 2016 / (en poste)</small></p>
@@ -99,9 +101,11 @@
                             </div>
                         </li>
                         <li>
-                            <div class="timeline-badge success"><i class="fa fa-building"></i></div>
+                            <div class="timeline-badge success"><i class="fa fa-building wow rotateIn"></i></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-minus"></i></button>
                                     <h4 class="timeline-title">Auto Entrepreneur</h4>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> janvier 2013 - avril 2016</small></p>
                                 </div>
@@ -109,7 +113,7 @@
                                     <p>
                                         <ul>
                                             <li>Formateur PHP/HTML occasionnel au CESI Entreprises</li>
-                                            <li>Création d'un mini frameworks MVC en PHP5, disponible sur <a href="">Github</a></li>
+                                            <li>Création d'un mini frameworks MVC en PHP5, disponible sur <a href="https://github.com/LafQuentin/appSWN">Github</a></li>
                                             <li>Création d'un e-commerce ultra simplifié pour une artiste bijoutière (Site plus en production)</li>
                                             <li>Création du site <a href="http://www.donnez-recevez.com" target="_blank">Donnez Recevez</a> (Site nominé dans la catégorie "Réseaux Sociaux" pour le concours "<a href="http://www.syntec-numerique.fr/actualite/syntec-numerique-devoile-nomines-du-concours-talents-du-numerique" target="_blank">Les talents du numérique</a>")</li>
                                         </ul>
@@ -119,9 +123,11 @@
                             </div>
                         </li>
                         <li>
-                            <div class="timeline-badge success"><i class="fa fa-graduation-cap"></i></div>
+                            <div class="timeline-badge success"><i class="fa fa-graduation-cap wow rotateIn"></i></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-plus"></i></button>
                                     <h4 class="timeline-title">Développeur web en alternance</h4>
                                     <h5 class="timeline-title-sci">Régicom (Paris 8em)</h5>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> novembre 2012 / juillet 2014</small></p>
@@ -140,9 +146,11 @@
                             </div>
                         </li>
                         <li>
-                            <div class="timeline-badge warning"><i class="fa fa-floppy-o"></i></div>
+                            <div class="timeline-badge warning"><i class="fa fa-floppy-o wow rotateIn"></i></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-plus"></i></button>
                                     <h4 class="timeline-title">Technicien support</h4>
                                     <h5 class="timeline-title-sci">Master-Technologie (Sevran - 93)</h5>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> juillet 2011 - juillet 2012</small></p>
@@ -159,9 +167,11 @@
                             </div>
                         </li>
                         <li>
-                            <div class="timeline-badge warning"><i class="fa fa-laptop"></i></div>
+                            <div class="timeline-badge warning"><i class="fa fa-laptop wow rotateIn"></i></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-plus"></i></button>
                                     <h4 class="timeline-title">Technicien, vendeur</h4>
                                     <h5 class="timeline-title-sci">Inforama (Paris - Montgallet)</h5>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>Septembre 2015 / Avril 2016</small></p>
@@ -169,7 +179,7 @@
                                 <div class="timeline-body">
                                     <p>
                                         <ul>
-                                            <li>"Création" de pc sur-mesure en fonction des besoin du client</li>
+                                            <li>"Création" de pc sur-mesure en fonction des besoins du client</li>
                                             <li>Service après vente et réparation de PC/Mac</li>
                                             <li>Installation de l'os et logiciels à la demande du client</li>
                                         </ul>
@@ -185,6 +195,32 @@
         </div>
 
         <div class="col-md-5 skills">
+            <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Formations</h5>
+            <div class="row">
+                <div class="col-md-12 col-xs-12">
+                    <!--CV-->
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-badge success"><i class="fa fa-graduation-cap wow rotateIn"></i></div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <button class="btn btn-default pull-right minusAdd wow zoomInDown">
+                                        <i class="fa fa-minus"></i></button>
+                                    <h4 class="timeline-title">Développeur Web (RNCP niv. III)</h4>
+                                    <h5 class="timeline-title-sci">Cesi Entreprise (Nanterre - 92)</h5>
+                                    <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>2012 / 2014</small></p>
+                                </div>
+                                <div class="timeline-body" style="display: block;">
+                                    <p>
+                                        Formation en alternance dans la société Régicom (3 semaines en entreprise 1 en formation au CESI)
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!--END CV-->
+                </div>
+            </div>
             <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Comptétences techniques</h5>
             <div class="row">
                 <canvas id="canvas"></canvas>
@@ -193,8 +229,8 @@
                 <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Langues</h5>
                 <div class="row">
                     <ul>
-                        <li>Francais</li>
-                        <li>Anglais</li>
+                        <li>Francais (Langue maternelle)</li>
+                        <li>Anglais (Compétence professionnelle limitée)</li>
                     </ul>
                 </div>
             </div>
@@ -204,7 +240,7 @@
                     <div class="col-md-6 col-xs-6 col-sm-6 hobbieLeft">
                         <ul>
                             <li>Ski</li>
-                            <li>VTT</li>
+                            <li>Urbex</li>
                             <li>Photo</li>
                             <li>Pêche</li>
                         </ul>
@@ -226,39 +262,6 @@
                         Projet "Donnez-Recevez" sélectionné dans la catégorie réseaux sociaux</p>
                 </div>
             </div>
-            <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Formations</h5>
-            <div class="row">
-                <div class="col-md-12 col-xs-12">
-                    <!--CV-->
-                    <ul class="timeline">
-                        <li>
-                            <div class="timeline-badge"><i class="glyphicon glyphicon-check"></i></div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4 class="timeline-title">Cesi Entreprise</h4>
-                                    <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-                                </div>
-                                <div class="timeline-body" style="display: block;">
-                                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4 class="timeline-title">Lycée professionnel Chateau Blanc</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                    <!--END CV-->
-                </div>
-            </div>
-
         </div>
 
     </div>

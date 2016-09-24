@@ -157,7 +157,7 @@ h5 {
 
 .timeline {
     list-style: none;
-    padding: 20px 0 20px;
+    padding: 20px 0 0px;
     position: relative;
 }
 .timeline:before {
@@ -296,4 +296,8 @@ h5 {
 
 .distinct{
     margin-left: 25px;
+}
+
+.minusAdd i{
+    color: #929292;
 }

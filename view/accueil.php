@@ -17,7 +17,7 @@
                     <a href="https://github.com/LafQuentin" target="_blank" class="btnB btn-default wow rubberBand" data-wow-delay="0.5s" data-toggle="tooltip" data-placement="top" title="Github"><i class="fa fa-github fa-2x icon-home github-icon" aria-hidden="true"></i></a>
                 </div>
                 <div class="col-md-12 col-xs-12 col-lg-2 button-home text-center ">
-                    <a href="http://cv.quentin-laffeach.fr" class="btnB btn-default wow rollIn btn-cv" data-wow-delay="1.3s" data-toggle="tooltip" data-placement="top" title="Mon CV"><i class="fa fa-briefcase fa-2x icon-home-cv" aria-hidden="true"></i></a>
+                    <a href="https://quentin-laffeach.fr/cv" class="btnB btn-default wow rollIn btn-cv" data-wow-delay="1.3s" data-toggle="tooltip" data-placement="top" title="Mon CV"><i class="fa fa-briefcase fa-2x icon-home-cv" aria-hidden="true"></i></a>
                 </div>
                 <div class="col-md-12 col-xs-12 col-lg-5 button-home text-left">
                     <a href="https://fr.linkedin.com/in/quentin-laffeach-7295a080" target="_blank" class="btnB btn-default wow rubberBand" data-wow-delay="0.7s" data-toggle="tooltip" data-placement="top" title="Linkedin"><i class="fa fa-linkedin fa-2x icon-home linkedin-icon" aria-hidden="true"></i></a>
