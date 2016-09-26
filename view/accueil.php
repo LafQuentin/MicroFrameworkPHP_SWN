@@ -5,7 +5,7 @@
                 <img src="<?= System\Router::goodUrl(); ?>web/cv/images/picture.png" alt="Quentin LAFFEACH, développeur web , php" class="img-circle img-responsive useravatar">
             </div>
             <div class="salut">
-                <h1><i class="fa fa-terminal" aria-hidden="true"></i> Développeur php :: gestion de projet :: SEO</h1>
+                <h1><i class="fa fa-terminal" aria-hidden="true"></i> Développeur PHP</h1>
                 <h2><i class="fa fa-terminal" aria-hidden="true"></i> Quentin Laffeach</h2>
             </div>
         </div>

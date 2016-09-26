@@ -6,18 +6,18 @@
             </div>
             <div class="text-center">
                 <h2><i class="fa fa-terminal" aria-hidden="true"></i> Quentin Laffeach</h2>
-                <h1><i class="fa fa-terminal" aria-hidden="true"></i> Développeur php :: gestion de projet :: SEO</h1>
+                <h1><i class="fa fa-terminal" aria-hidden="true"></i> Développeur PHP</h1>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 col-xs-12 cv-resume wow bounceIn">
-            <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Résumé</h5>
+            <!--<h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Résumé</h5>
             <div class="row">
                 <div class="col-md-12 col-xs-12">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id turpis massa. Maecenas euismod convallis venenatis. Sed in purus ac urna luctus tristique. Sed id augue nec lorem vulputate aliquam. Donec sit amet ultricies dolor. Duis pulvinar sed
                 </div>
-            </div>
+            </div>-->
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 cv-perso wow bounceIn">
             <h5 class="text-right"><i class="fa fa-terminal" aria-hidden="true"></i> Infos</h5>
@@ -85,7 +85,7 @@
                                     <button class="btn btn-default pull-right minusAdd wow zoomInDown">
                                         <i class="fa fa-minus"></i></button>
                                     <h4 class="timeline-title">Développeur web</h4>
-                                    <h5 class="timeline-title-sci">As&Co Consulting (Bourgoin Jaillieu - 38)</h5>
+                                    <h5 class="timeline-title-sci">As&Co Consulting (Bourgoin Jallieu - 38)</h5>
                                     <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> avril 2016 / (en poste)</small></p>
                                 </div>
                                 <div class="timeline-body" style="display: block;">
@@ -114,7 +114,7 @@
                                         <ul>
                                             <li>Formateur PHP/HTML occasionnel au CESI Entreprises</li>
                                             <li>Création d'un mini frameworks MVC en PHP5, disponible sur <a href="https://github.com/LafQuentin/appSWN">Github</a></li>
-                                            <li>Création d'un e-commerce ultra simplifié pour une artiste bijoutière (Site plus en production)</li>
+                                            <li>Création d'un e-commerce ultra simplifié pour une artiste bijoutière</li>
                                             <li>Création du site <a href="http://www.donnez-recevez.com" target="_blank">Donnez Recevez</a> (Site nominé dans la catégorie "Réseaux Sociaux" pour le concours "<a href="http://www.syntec-numerique.fr/actualite/syntec-numerique-devoile-nomines-du-concours-talents-du-numerique" target="_blank">Les talents du numérique</a>")</li>
                                         </ul>
                                         <em>Langages utilisés : PHP5, HTML5, CSS3, jQuery</em>
@@ -136,9 +136,9 @@
                                     <p>
                                         <ul>
                                             <li>Intégration sur le site "<a href="http://www.les-bonnes-promos.com/" target="_blank">les-bonnes-promos.fr</a>"</li>
-                                            <li>Intégration sur le site "<a href="http://www.les-bonnes-promos.com/" target="_blank">TOPannonces.fr</a>"</li>
+                                            <li>Intégration sur le site "<a href="http://www.topannonces.fr/" target="_blank">TOPannonces.fr</a>"</li>
                                             <li>Création de la newsletter responsive du site "les-bonnes-promos.fr"</li>
-                                            <li>Création d'un mini site lié au magazine TOP (Site plus en production)</li>
+                                            <li>Création d'un mini site lié au magazine TOP</li>
                                         </ul>
                                         <em>Langages utilisés : ASP.NET MVC3, HTML5, CSS3, jQuery</em>
                                     </p>
@@ -174,7 +174,7 @@
                                         <i class="fa fa-plus"></i></button>
                                     <h4 class="timeline-title">Technicien, vendeur</h4>
                                     <h5 class="timeline-title-sci">Inforama (Paris - Montgallet)</h5>
-                                    <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>Septembre 2015 / Avril 2016</small></p>
+                                    <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> janvier 2011 / avril 2011</small></p>
                                 </div>
                                 <div class="timeline-body">
                                     <p>
@@ -250,7 +250,6 @@
                             <li>Jeux vidéo</li>
                             <li>Veille technologique</li>
                             <li>Hardware</li>
-                            <li>Photo</li>
                         </ul>
                     </div>
                 </div>
