@@ -48,7 +48,7 @@ if($dev == 1){ ?>
 <?php } ?>
 
     <?= $data; ?>
-<script src="<?= System\Router::goodUrl(); ?>web/cv/js/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/bootstrap.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/wow.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/Chart.bundle.min.js"></script>
