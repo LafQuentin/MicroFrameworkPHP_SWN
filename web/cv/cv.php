@@ -51,7 +51,7 @@ if($dev == 1){ ?>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/bootstrap.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/wow.min.js"></script>
-<script src="<?= System\Router::goodUrl(); ?>web/cv/js/Chart.bundle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.2/Chart.bundle.min.js"></script>
 <?php if($_SESSION['intro'] == true){ ?>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/jquery.particleground.min.js"></script>
 <script src="<?= System\Router::goodUrl(); ?>web/cv/js/home.js"></script>
