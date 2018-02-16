@@ -1,2 +1,2 @@
 web/cv/js/* linguist-vendored
-jquery-3.1.0.min.js linguist-vendored=false
+jquery-3.1.0.min.js linguist-vendored=true
